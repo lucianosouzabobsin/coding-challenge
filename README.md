@@ -64,6 +64,8 @@ Requisições para a API devem seguir os verbos:
 >
 * Checar os testes
 >    $ composer test
+>    ou
+>    $ vendor/phpunit/phpunit/phpunit
 
 ## Como usar
 
