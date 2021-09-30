@@ -10,7 +10,9 @@ Esta API funciona somente com autorização de token. Para enviar o token na sol
 |---|
 | 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT |
 
-Authorization: Bearer 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT
+| Authorization |
+|---|
+| Authorization: Bearer 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT |
 
 ## Métodos
 Requisições para a API devem seguir os verbos:
