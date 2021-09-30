@@ -85,10 +85,8 @@ Você pode usar o Postman para utilizar esta API.
 `GET /api/list.records/`
 
 ````
-```
     curl --location --request GET 'http://challenge.local/api/list.records?movement=2' \
 --header 'Authorization: Bearer 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT'
-```
 ````
 
 ## Versionamento
