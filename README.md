@@ -6,8 +6,9 @@ Disponibiliza uma API REST com o endpoint que traz o ranking de um determinado m
 
 Esta API funciona somente com autorização de token. Para enviar o token na solicitação, você pode fazer isso enviando um atributo api_token no payload ou como um token no header:
 
-|---|---|
-| `Token` | 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT |
+| Token |
+|---|
+| 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT |
 
 Authorization: Bearer 0syHnl0Y9jOIfszq11EC2CBQwCfObmvscrZYo5o2ilZPnohvndH797nDNyAT
 
